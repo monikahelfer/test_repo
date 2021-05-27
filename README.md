@@ -6,4 +6,10 @@ Changes changes
 
 Changes
 
+A new paragraph
+
 # Useful chapter
+
+# New content
+
+A lot of content
