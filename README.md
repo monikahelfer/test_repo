@@ -16,4 +16,6 @@ A lot of content
 
 # New chapter
 
+Change on master.
+
 # Chapter 3
