@@ -16,4 +16,6 @@ A lot of content
 
 # New chapter
 
+I add this change to the new branch.
+
 # Chapter 3
